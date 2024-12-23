@@ -1,3 +1,4 @@
 # EMR_sites
-EMR Sites in Counties
-This is continuously updated
+EMR Sites in Counties.
+
+This is continuously updated.
